@@ -3,4 +3,4 @@
 
 Project Goal: To implement 3 different C programs (mycat, myls and mysize) using system calls and following the POSIX standard.
 
-[Note: This project was never uploaded to my university GitHub account ( @EnriqueMorenoG88 )]
+[Note: This project was never uploaded to my university GitHub account ( @EnriqueMorenoG88 ), so you will only find it here]
